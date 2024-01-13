@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Web Developer</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 50px 0;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.2em;
+            color: #ffd700;
+        }
+
+        header img {
+            border-radius: 50%;
+            margin-top: 20px;
+        }
+
+        section {
+            padding: 40px;
+            text-align: center;
+        }
+
+        section h2 {
+            color: #333;
+        }
+
+        section p {
+            font-size: 1.1em;
+            line-height: 1.6em;
+            color: #666;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="your-photo.jpg" alt="Your Name">
+    <h1>Your Name</h1>
+    <p>Web Developer</p>
+</header>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <p>
+        HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, etc.
+        <!-- Add more skills as needed -->
+    </p>
+</section>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+        Welcome to my portfolio! I am a passionate web developer with a background in [Your Background].
+        I have completed my education at [Your University] and gained practical experience in [Your Relevant Experience].
+        <!-- Add more details about your background, education, and experience -->
+    </p>
+</section>
+
+<!-- Add more sections like "Projects," "Portfolio," etc., as needed -->
+
+<footer>
+    <p>Contact: your.email@example.com</p>
+</footer>
+
+</body>
+</html>
